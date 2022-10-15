@@ -4,7 +4,6 @@
 
 This code is the implementation of ["Hybrid network model based on 3D convolutional neural network and scalable graph convolutional network for hyperspectral image classification"](https://doi.org/10.1049/ipr2.12632).
 
-More specifically, it is detailed as follows.
 
 Citation
 ---------------------
